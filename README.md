@@ -21,4 +21,4 @@ Key metrics (total disasters, affected population, etc.)
 Demonstrate Data Handling Skills: Showcase handling of missing data, feature engineering, temporal and spatial analysis, and integration of AI models with visualizations.
 
 
-https://github.com/rads30/Disaster-Prediction-2025/commit/86f2ab33de7a2df4f836b161cdbcafb15868646c#diff-be7e2f20129365c2899b2c11bfc465541e61b1858f45bf0248cf99b9271bc707R2
+<img width="2916" height="1250" alt="Disaster Dasboard 2025 (1)" src="https://github.com/user-attachments/assets/b18c87e3-0295-4d39-9541-07e0f17fd6ba" />
