@@ -19,3 +19,6 @@ Category-wise distribution (e.g., wildfires vs. storms)
 Key metrics (total disasters, affected population, etc.)
 
 Demonstrate Data Handling Skills: Showcase handling of missing data, feature engineering, temporal and spatial analysis, and integration of AI models with visualizations.
+
+
+https://github.com/rads30/Disaster-Prediction-2025/commit/86f2ab33de7a2df4f836b161cdbcafb15868646c#diff-be7e2f20129365c2899b2c11bfc465541e61b1858f45bf0248cf99b9271bc707R2
